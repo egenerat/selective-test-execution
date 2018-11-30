@@ -1,3 +1,9 @@
 .idea/
 *.exec
 target/
+
+
+# JS
+node_modules/
+coverage/
+.nyc_output/
