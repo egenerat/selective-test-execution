@@ -2,6 +2,10 @@
 *.exec
 target/
 
+.project
+.classpath
+.settings/
+
 
 # JS
 node_modules/
