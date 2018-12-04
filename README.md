@@ -2,7 +2,7 @@
 
 The goal of this project is to offer a solution to select the minimum subset of tests to execute, based on the code changes in a pull-request.
 
-[![Build Status](https://travis-ci.com/egenerat/selective-test-suite.svg?branch=master)](https://travis-ci.com/egenerat/selective-test-suite)
+[![Build Status](https://travis-ci.com/egenerat/selective-test-execution.svg?branch=master)](https://travis-ci.com/egenerat/selective-test-suite)
 
 ## JavaScript
 
